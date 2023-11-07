@@ -6,7 +6,7 @@
 
 [Data Deck](https://docs.google.com/presentation/d/1toaoFZZWnuMCEK4gOW9AItLKebHW2CtRxbk8kNKW1Ps/edit#slide=id.p)
 
-
+[Alexnet Filters](https://colab.research.google.com/drive/1lrd1NBag0md6_vAqH7CfYM01Rdnlumkq)
 -Shooting Mechanics Analysis: Robots equipped with cameras and sensors can analyze a player's shooting mechanics in real-time. They can capture data on shooting posture, release angle, follow-through, and other crucial factors. This data can be used to identify areas for improvement.
 
 -Consistency Training: Shooting robots can provide consistent and repetitive training sessions, allowing players to practice their shooting form with precision. Consistency is essential for muscle memory development, which is critical for shooting accuracy.
