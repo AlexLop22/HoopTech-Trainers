@@ -17,7 +17,7 @@
 
 # HOOPTECH TRAINER MISSION STATEMENT
 
-## At HoopTech Trainers, our mission is to empower NBA players to achieve their highest level of shooting excellence. We believe in harnessing the power of technology and robotics to transform and elevate the art of basketball shooting. Our robots are dedicated to enabling players to reach new heights in precision, consistency, and performance on the court.
+### At HoopTech Trainers, our mission is to empower NBA players to achieve their highest level of shooting excellence. We believe in harnessing the power of technology and robotics to transform and elevate the art of basketball shooting. Our robots are dedicated to enabling players to reach new heights in precision, consistency, and performance on the court.
 
 
 
@@ -31,7 +31,7 @@
 # PROBLEM
 
 
-## Mechanical Inconsistencies: NBA players may struggle with maintaining consistent shooting mechanics. Small variations in posture, hand placement, or release can lead to inaccuracies.
+### Mechanical Inconsistencies: NBA players may struggle with maintaining consistent shooting mechanics. Small variations in posture, hand placement, or release can lead to inaccuracies.
 
 Fatigue and Endurance: Over the course of a game, players may experience fatigue, which can affect their shooting accuracy. Maintaining good form under physical and mental fatigue is a challenge.
 
