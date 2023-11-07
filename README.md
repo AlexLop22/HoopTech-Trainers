@@ -10,7 +10,7 @@
 
 
 
-PROBLEM
+#PROBLEM
 
 
 
@@ -50,7 +50,7 @@ Player Development: For young and developing players, robots can provide a struc
 
 
 
-WHAT THEY CAN DO
+##WHAT THEY CAN DO
 
 
 -Shooting Mechanics Analysis: Robots equipped with cameras and sensors can analyze a player's shooting mechanics in real-time. They can capture data on shooting posture, release angle, follow-through, and other crucial factors. This data can be used to identify areas for improvement.
