@@ -11,6 +11,9 @@
 
 
 PROBLEM
+
+
+
 Consistency: Robots can provide highly consistent training sessions, ensuring that players can practice their shooting skills with precision and regularity. Consistency is critical for developing muscle memory, which is essential for shooting accuracy.
 
 Data-Driven Feedback: Robots can collect and analyze data on a player's shooting mechanics, providing objective and data-driven feedback. This feedback helps players understand their strengths and weaknesses, enabling them to make targeted improvements.
@@ -47,7 +50,7 @@ Player Development: For young and developing players, robots can provide a struc
 
 
 
-
+WHAT THEY CAN DO
 
 
 -Shooting Mechanics Analysis: Robots equipped with cameras and sensors can analyze a player's shooting mechanics in real-time. They can capture data on shooting posture, release angle, follow-through, and other crucial factors. This data can be used to identify areas for improvement.
