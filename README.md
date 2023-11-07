@@ -5,6 +5,11 @@
 
 # DATA DECK
 [Data Deck](https://docs.google.com/presentation/d/1toaoFZZWnuMCEK4gOW9AItLKebHW2CtRxbk8kNKW1Ps/edit#slide=id.p)
+
+
+
+
+
 #ALEXNET
 [Alexnet Filters](https://colab.research.google.com/drive/1lrd1NBag0md6_vAqH7CfYM01Rdnlumkq)
 
