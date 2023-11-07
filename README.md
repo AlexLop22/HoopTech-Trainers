@@ -13,6 +13,40 @@
 # PROBLEM
 
 
+Mechanical Inconsistencies: NBA players may struggle with maintaining consistent shooting mechanics. Small variations in posture, hand placement, or release can lead to inaccuracies.
+
+Fatigue and Endurance: Over the course of a game, players may experience fatigue, which can affect their shooting accuracy. Maintaining good form under physical and mental fatigue is a challenge.
+
+Pressure and Stress: NBA games are high-pressure environments. Players may find it difficult to shoot accurately when there's intense competition, time pressure, or when they are under the scrutiny of fans and media.
+
+Adaptation to Game Situations: Shooting in an NBA game is different from practice. Players must adapt to varying game scenarios, such as shooting under defensive pressure or from different court positions.
+
+Mental Toughness: Confidence and mental toughness play a significant role in shooting accuracy. Players may struggle with confidence and focus, impacting their performance.
+
+
+# EXAMPLE
+
+
+An NBA player, let's call him Player A, has a consistent shooting issue. During practice sessions, he tends to release the ball with a slightly different hand angle each time he shoots. This inconsistency in hand placement affects the trajectory of the ball and leads to inaccuracies in his shots. In games, where there's added pressure and the need for precise shooting, this inconsistency becomes a significant problem.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# HOW THEY CAN HELP
+
 
 Consistency: Robots can provide highly consistent training sessions, ensuring that players can practice their shooting skills with precision and regularity. Consistency is critical for developing muscle memory, which is essential for shooting accuracy.
 
