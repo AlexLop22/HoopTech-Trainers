@@ -36,7 +36,7 @@
 
 ### Injuried 
 
-![image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.latimes.com%2Fsports%2Fstory%2F2021-06-13%2Fkyrie-irving-injured-bucks-nets-suns-nuggets-nba&psig=AOvVaw0axEkqQZXvhBek7dC-3TBC&ust=1701466890931000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJCD1p7Y7IIDFQAAAAAdAAAAABAE)
+![image](https://ca-times.brightspotcdn.com/dims4/default/6f50af6/2147483647/strip/true/crop/4962x3308+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd0%2Fe7%2F3a4b1d6a4191966166e52308e98c%2Fnets-bucks-basketball-84126.jpg)
 
 
 
