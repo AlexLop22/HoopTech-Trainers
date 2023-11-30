@@ -34,10 +34,14 @@
 
 
 
-### Injuried 
+### Injuried Athlete
 
 ![image](https://ca-times.brightspotcdn.com/dims4/default/6f50af6/2147483647/strip/true/crop/4962x3308+0+0/resize/1200x800!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fd0%2Fe7%2F3a4b1d6a4191966166e52308e98c%2Fnets-bucks-basketball-84126.jpg)
 
+
+### Healthy Athlete
+
+![image](https://i0.wp.com/newspack-washingtoncitypaper.s3.amazonaws.com/uploads/2020/01/Ish_Smith.5e14b0cea3cb9.png?fit=1200%2C800&ssl=1)
 
 
 
