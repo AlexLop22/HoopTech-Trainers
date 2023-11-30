@@ -35,7 +35,7 @@
 
 # EXAMPLE
 
-- Consider a professional basketball player, Alex, known for their agility and scoring prowess. Despite consistent performance, Alex has recently experienced recurring ankle discomfort during games. Traditional injury prevention methods have provided limited relief, prompting the need for a more tailored approach.
+Consider a professional basketball player, Alex, known for their agility and scoring prowess. Despite consistent performance, Alex has recently experienced recurring ankle discomfort during games. Traditional injury prevention methods have provided limited relief, prompting the need for a more tailored approach.
 
 Using our AI-powered injury prevention system, a comprehensive biomechanical analysis is conducted on Alex's movements. The AI identifies specific patterns contributing to the ankle discomfort, such as improper landing techniques after jumps. By recognizing these nuances, the system creates a personalized training program that focuses on strengthening ankle stability and improving landing mechanics.
 
