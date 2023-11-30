@@ -17,7 +17,7 @@
 
 # HOOPTECH TRAINER MISSION STATEMENT
 
-- At HoopTech Trainers, our mission is to empower NBA players to achieve their highest level of shooting excellence. We believe in harnessing the power of technology and robotics to transform and elevate the art of basketball shooting. Our robots are dedicated to enabling players to reach new heights in precision, consistency, and performance on the court.
+- At HoopTech Trainers, our mission is to revolutionize injury prevention in basketball through cutting-edge AI technology. We are committed to leveraging artificial intelligence to create a safer and more sustainable athletic experience for players. Our goal is to empower athletes with personalized, proactive, and data-driven solutions that enhance performance and reduce the risk of injuries.
 
 
 
