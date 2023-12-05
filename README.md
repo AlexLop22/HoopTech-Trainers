@@ -102,14 +102,14 @@ The graphs below indicate the training accuracy (`acc_train`) and loss over the 
 ### Accuracy 
 
 
-![image](https://api.wandb.ai/links/al46529/yynoketn)
+![image](https://wandb.ai/al46529/Linear_Model_Photo_1/reports/acc_train-23-12-05-15-26-17---Vmlldzo2MTc3MjI0?accessToken=yctgj1pku0llvewl9umddxlvs22v5p8zknvi2tnxv3ef6zdqt7h8wd536bhn9322)
 
 
 
 ### Loss
 
 
-![image](https://api.wandb.ai/links/al46529/ti8nxb85)
+![image](https://api.wandb.ai/links/al46529/colwzjtt)
 
 
 
