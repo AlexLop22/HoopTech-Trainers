@@ -95,16 +95,31 @@ To address the issue of injuries in basketball and provide personalized injury p
 
 
 
-## WHAT THEY CAN DO
+## Results
+
+The graphs below indicate the training accuracy (`acc_train`) and loss over the course of the training runs:
+
+### Accuracy 
+![image](https://wandb.ai/al46529/Linear_Model_Photo_1/reports/acc_train-23-12-05-01-42-16---Vmlldzo2MTY5ODU3)
 
 
--Shooting Mechanics Analysis: Robots equipped with cameras and sensors can analyze a player's shooting mechanics in real-time. They can capture data on shooting posture, release angle, follow-through, and other crucial factors. This data can be used to identify areas for improvement.
 
--Consistency Training: Shooting robots can provide consistent and repetitive training sessions, allowing players to practice their shooting form with precision. Consistency is essential for muscle memory development, which is critical for shooting accuracy.
+### Loss
+![image](https://wandb.ai/al46529/Linear_Model_Photo_1/reports/loss-23-12-05-01-46-39---Vmlldzo2MTY5OTAx)
 
--Instant Feedback: Robots can offer immediate feedback to players after each shot. They can provide data on shot accuracy, arc, and other metrics, helping players understand the quality of each shot and make necessary adjustments.
 
--Adjustable Shooting Challenges: Robots can simulate various game scenarios, such as shooting under pressure, with defenders, or from different positions on the court. This allows players to practice under conditions similar to actual games.
 
--Customized Training Programs: Machine learning algorithms can analyze a player's shooting data and tailor training programs to address specific weaknesses. This personalized approach can be highly effective in improving a player's shooting skills.
+
+
+
+
+
+
+
+
+
+
+
+
+
 
