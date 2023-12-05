@@ -100,12 +100,12 @@ To address the issue of injuries in basketball and provide personalized injury p
 The graphs below indicate the training accuracy (`acc_train`) and loss over the course of the training runs:
 
 ### Accuracy 
-![image](https://wandb.ai/al46529/Linear_Model_Photo_1/reports/acc_train-23-12-05-01-42-16---Vmlldzo2MTY5ODU3)
+![image](<iframe src="https://wandb.ai/al46529/Linear_Model_Photo_1?workspace=user-al46529" style="border:none;height:1024px;width:100%">)
 
 
 
 ### Loss
-![image](https://wandb.ai/al46529/Linear_Model_Photo_1/reports/loss-23-12-05-01-46-39---Vmlldzo2MTY5OTAx)
+![image](<iframe src="https://wandb.ai/al46529/Linear_Model_Photo_1?workspace=user-al46529" style="border:none;height:1024px;width:100%">)
 
 
 
