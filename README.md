@@ -120,14 +120,14 @@ The graphs below indicate the training accuracy (`acc_train`) and loss over the 
 ### Accuracy 
 
 
-![image](W&B Chart 12_7_2023, 10_48_48 AM.png) 
+![image](https://github.com/AlexLop22/HoopTech-Trainers/blob/main/W%26B%20Chart%2012_7_2023%2C%2010_48_48%20AM.png) 
 
 
 
 ### Loss
 
 
-![image](https://api.wandb.ai/links/al46529/colwzjtt)
+![image](https://github.com/AlexLop22/HoopTech-Trainers/blob/main/W%26B%20Chart%2012_7_2023%2C%2010_48_48%20AM.png)
 
 
 - Improved Athlete Performance: Athletes using AthletePro experience enhanced performance and achieve their full potential.
