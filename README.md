@@ -154,4 +154,4 @@ loss 0.5945115685462952 = 59%
 ### Feature Map
 [Feature Maps](https://colab.research.google.com/drive/1CVnvMVFmqACtTkNcwhJiLQlPi4y3JSUD)
 
-![image]
+![image](https://github.com/AlexLop22/HoopTech-Trainers/blob/main/download.png)
