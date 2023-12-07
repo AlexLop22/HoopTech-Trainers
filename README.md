@@ -127,7 +127,7 @@ The graphs below indicate the training accuracy (`acc_train`) and loss over the 
 ### Loss
 
 
-![image](https://github.com/AlexLop22/HoopTech-Trainers/blob/main/W%26B%20Chart%2012_7_2023%2C%2010_48_48%20AM.png)
+![image](https://github.com/AlexLop22/HoopTech-Trainers/blob/main/W%26B%20Chart%2012_7_2023%2C%2010_55_12%20AM.png)
 
 
 - Improved Athlete Performance: Athletes using AthletePro experience enhanced performance and achieve their full potential.
