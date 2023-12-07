@@ -154,6 +154,8 @@ loss 0.5945115685462952 = 59%
 ### Feature Map
 [Feature Maps](https://colab.research.google.com/drive/1CVnvMVFmqACtTkNcwhJiLQlPi4y3JSUD)
 
+<img src="Feature_maps.png" width="500" >
+
 
 
 
