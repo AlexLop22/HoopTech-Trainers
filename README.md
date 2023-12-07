@@ -131,7 +131,10 @@ The graphs below indicate the training accuracy (`acc_train`) and loss over the 
 
 
 ### Run Summary 
+
 acc_train 0.71875 = 71%
+
+
 loss 0.5945115685462952 = 59%
 
 
